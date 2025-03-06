@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BreadBadger9000/1.0.0": {
+        "runtime": {
+          "BreadBadger9000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BreadBadger9000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

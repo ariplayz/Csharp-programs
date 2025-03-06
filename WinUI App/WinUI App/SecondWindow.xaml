@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="WinUI_App.SecondWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinUI_App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="WinUI App">
+
+
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <StackPanel Name="myStackPanel1" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Visibility="Visible">
+            <Button x:Name="Button1" Click="Button1_Click" Content="Enter the Matrix." HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ari\\source\\repos\\WinUI App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\secondwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\secondwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\secondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\secondwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|c:\\users\\ari\\source\\repos\\winui app\\winui app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F26F9EBB-0903-47F9-BCFE-A837298843B5}|WinUI App\\WinUI App.csproj|solutionrelative:winui app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WinUI App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\MainWindow.xaml",
+              "RelativeToolTip": "WinUI App\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T23:31:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WinUI App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WinUI App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:26:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\SecondWindow.xaml",
+              "RelativeDocumentMoniker": "WinUI App\\SecondWindow.xaml",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\SecondWindow.xaml",
+              "RelativeToolTip": "WinUI App\\SecondWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T15:57:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\SecondWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WinUI App\\SecondWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\SecondWindow.xaml.cs",
+              "RelativeToolTip": "WinUI App\\SecondWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:57:20.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\App.xaml",
+              "RelativeDocumentMoniker": "WinUI App\\App.xaml",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\App.xaml",
+              "RelativeToolTip": "WinUI App\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T23:39:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WinUI App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Ari\\source\\repos\\WinUI App\\WinUI App\\App.xaml.cs",
+              "RelativeToolTip": "WinUI App\\App.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:27:58.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

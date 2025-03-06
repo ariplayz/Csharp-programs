@@ -1,0 +1,15 @@
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\bin\Debug\net9.0\BreadBadger9000.exe
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\bin\Debug\net9.0\BreadBadger9000.deps.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\bin\Debug\net9.0\BreadBadger9000.runtimeconfig.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\bin\Debug\net9.0\BreadBadger9000.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\bin\Debug\net9.0\BreadBadger9000.pdb
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.AssemblyInfoInputs.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.AssemblyInfo.cs
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.csproj.CoreCompileInputs.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.sourcelink.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\refint\BreadBadger9000.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.pdb
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\BreadBadger9000.genruntimeconfig.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\BreadBadger9000\obj\Debug\net9.0\ref\BreadBadger9000.dll

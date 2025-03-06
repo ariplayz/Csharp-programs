@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXBF7xWnT6A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ari\\source\\repos\\Chaetio Playr\\Chaetio Playr\\Chaetio Playr (Package)\\Chaetio Playr (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ari\\.nuget\\packages\\microsoft.web.webview2\\1.0.2651.64\\microsoft.web.webview2.1.0.2651.64.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.26100.1742\\microsoft.windows.sdk.buildtools.10.0.26100.1742.nupkg.sha512",
+    "C:\\Users\\Ari\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.250108002\\microsoft.windowsappsdk.1.6.250108002.nupkg.sha512"
+  ],
+  "logs": []
+}

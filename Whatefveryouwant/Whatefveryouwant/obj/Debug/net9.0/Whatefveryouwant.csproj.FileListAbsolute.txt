@@ -1,0 +1,14 @@
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\bin\Debug\net9.0\Whatefveryouwant.exe
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\bin\Debug\net9.0\Whatefveryouwant.deps.json
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\bin\Debug\net9.0\Whatefveryouwant.runtimeconfig.json
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\bin\Debug\net9.0\Whatefveryouwant.dll
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\bin\Debug\net9.0\Whatefveryouwant.pdb
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.AssemblyInfoInputs.cache
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.AssemblyInfo.cs
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.csproj.CoreCompileInputs.cache
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.dll
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\refint\Whatefveryouwant.dll
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.pdb
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\Whatefveryouwant.genruntimeconfig.cache
+C:\Users\Ari\source\repos\Whatefveryouwant\Whatefveryouwant\obj\Debug\net9.0\ref\Whatefveryouwant.dll

@@ -1,0 +1,1 @@
+C:\Users\Ari\source\repos\WinUI App\WinUI App\WinUI App.csproj;x64
