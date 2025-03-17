@@ -1,0 +1,15 @@
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\bin\Debug\net9.0\delphigamerzsjfdslkfjcscharp.exe
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\bin\Debug\net9.0\delphigamerzsjfdslkfjcscharp.deps.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\bin\Debug\net9.0\delphigamerzsjfdslkfjcscharp.runtimeconfig.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\bin\Debug\net9.0\delphigamerzsjfdslkfjcscharp.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\bin\Debug\net9.0\delphigamerzsjfdslkfjcscharp.pdb
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.AssemblyInfoInputs.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.AssemblyInfo.cs
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.csproj.CoreCompileInputs.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.sourcelink.json
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\refint\delphigamerzsjfdslkfjcscharp.dll
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.pdb
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\delphigamerzsjfdslkfjcscharp.genruntimeconfig.cache
+C:\Users\Ari\Documents\GitHub\Csharp-programs\delphigamerzsjfdslkfjcscharp\obj\Debug\net9.0\ref\delphigamerzsjfdslkfjcscharp.dll
